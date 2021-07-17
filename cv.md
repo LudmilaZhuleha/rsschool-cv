@@ -25,10 +25,7 @@
 ### EDUCATION
 
 * ***2020 - present*** - self-education: basic HTML, CSS, Javascript
-* ***2010 - 2019*** - different trainings (mainly related to:
-    1. sales,
-    2. business administration and
-    3. financing)
+* ***2010 - 2019*** - different trainings (mainly related to sales, business administration and financing)
 * ***2004 - 2006*** - The Mercuri International Sales Training Program
 * ***2001 - 2003*** - The European Humanities University, Master Degree Program in Transathlantic Relations
 * ***1996 - 2001*** - The European Humanities University, Economics, Specialist diploma
