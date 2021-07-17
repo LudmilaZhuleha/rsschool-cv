@@ -1,1 +1,1 @@
-# rsschool-cv
+<https://LudmilaZhuleha.github.io/rsschool-cv/cv>
